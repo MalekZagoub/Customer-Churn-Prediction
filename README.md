@@ -1,5 +1,5 @@
 # Customer-Churn-Prediction
-![image](https://github.com/user-attachments/assets/7512e8a9-34b5-4ff8-b989-a928a3473fbf)
+<img src="https://www.leadsquared.com/wp-content/uploads/2022/09/Customer-churn.webp" class="resized-image"/>
 
 In the highly competitive telecommunications industry, retaining customers is crucial for sustained business growth and profitability. Customer churn, or the loss of customers, presents a significant challenge, leading to reduced revenues and increased acquisition costs. Despite various retention efforts, identifying at-risk customers early remains a complex task due to the vast amount of data and numerous factors influencing customer behavior. There is a need for a robust and accurate predictive model that can analyze customer data and predict churn, allowing the company to proactively engage and retain these customers.
 
