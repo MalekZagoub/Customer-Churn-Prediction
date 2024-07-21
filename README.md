@@ -1,2 +1,6 @@
 # Customer-Churn-Prediction
-The project aims to develop an AI model to predict telecom customer churn by analyzing historical data. The model will identify churn patterns, enabling targeted retention strategies to reduce churn, boost customer satisfaction, and improve financial performance.
+![image](https://github.com/user-attachments/assets/7512e8a9-34b5-4ff8-b989-a928a3473fbf)
+
+In the highly competitive telecommunications industry, retaining customers is crucial for sustained business growth and profitability. Customer churn, or the loss of customers, presents a significant challenge, leading to reduced revenues and increased acquisition costs. Despite various retention efforts, identifying at-risk customers early remains a complex task due to the vast amount of data and numerous factors influencing customer behavior. There is a need for a robust and accurate predictive model that can analyze customer data and predict churn, allowing the company to proactively engage and retain these customers.
+
+The aim of this project is to develop an AI-powered predictive model that accurately identifies telecom customers who are at risk of churning. By leveraging historical customer data, the model will uncover patterns and indicators of churn, providing actionable insights for targeted retention strategies. This predictive capability will enable the telecommunications company to reduce churn rates, enhance customer satisfaction, and ultimately improve financial performance.
